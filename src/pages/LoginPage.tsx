@@ -69,7 +69,7 @@ export const LoginPage: React.FC = () => {
               className="w-20 h-20 rounded-2xl flex items-center justify-center mx-auto mb-4 overflow-hidden"
             >
               <img 
-                src="/logo-primary.png" 
+                src="/logo-primary-backup.png" 
                 alt={t('appName')} 
                 className="w-full h-full object-contain"
               />
