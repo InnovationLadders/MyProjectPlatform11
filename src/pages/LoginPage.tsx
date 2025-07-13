@@ -69,7 +69,7 @@ export const LoginPage: React.FC = () => {
               className="w-20 h-20 rounded-2xl flex items-center justify-center mx-auto mb-4 overflow-hidden"
             >
               <img 
-                src="/mashroui-logo.png" 
+                src="/logo-primary.png" 
                 alt={t('appName')} 
                 className="w-full h-full object-contain"
               />

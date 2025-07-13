@@ -181,7 +181,7 @@ export const RegisterPage: React.FC = () => {
               className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-4 overflow-hidden"
             >
               <img 
-                src="/mashroui-logo.png" 
+                src="/logo-primary.png" 
                 alt="مشروعي" 
                 className="w-full h-full object-contain"
               />
